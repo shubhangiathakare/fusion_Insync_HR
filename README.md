@@ -9,7 +9,7 @@ The **HR Analytics Platform** is an AI-powered tool designed to help HR professi
 
 Additionally, the platform supports **CSV file uploads**, allowing users to analyze previous attrition data and receive AI-generated insights.
 
-## Tech Stack
+## Tech Stack 
 - **Frontend**: ReactJS, TypeScript
 - **Backend**: Supabase
 - **AI Integration**: Google Gemini API
