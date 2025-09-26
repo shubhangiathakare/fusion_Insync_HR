@@ -6,7 +6,7 @@ The **HR Analytics Platform** is an AI-powered tool designed to help HR professi
 1. **Attrition Analysis** - Predicts the likelihood of employee attrition.
 2. **Training Recommendations** - Suggests training programs based on employee data. 
 3. **Compliance Checker** - Ensures compliance with company policies.
- 
+  
 Additionally, the platform supports **CSV file uploads**, allowing users to analyze previous attrition data and receive AI-generated insights.
 
 ## Tech Stack  
